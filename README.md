@@ -128,5 +128,4 @@ highest priorities as 100, blank answers were assigned 0.
 ### Data Processing
 
 All analysis and creation of visuals were performed in R. The code for
-the processing, cleaning, and writing of this doc can be found
-[here](https://github.com/JonathanmBarnes/SPHereSurvey2024) on github.
+the processing, cleaning, and writing of this doc can be found in the folder.
