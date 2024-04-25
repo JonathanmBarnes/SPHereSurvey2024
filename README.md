@@ -48,8 +48,8 @@ top priority, for those who use the lounge daily it was a top priority.
   priority. For those who included technology all but one had it as
   their highest.
 - Lighting is a consistent priority across groups; in those that visit
-  less then once a month is their highest importance by a considerable
-  margin. Shows possible reason for avoid the lounge.
+  less then once a month it is their highest importance by a considerable
+  margin. Shows possible reason for avoiding the lounge.
 - Priorities for those who use the lounge daily are furniture,
   collaborative space, and kitchen.
 
