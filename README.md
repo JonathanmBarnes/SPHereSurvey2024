@@ -48,8 +48,8 @@ top priority, for those who use the lounge daily it was a top priority.
   priority. For those who included technology all but one had it as
   their highest.
 - Lighting is a consistent priority across groups; in those that visit
-  less then once a month is their highest importance by a considerable
-  margin. Shows possible reason for avoid the lounge.
+  less then once a month it is their highest importance by a considerable
+  margin. Shows possible reason for avoiding the lounge.
 - Priorities for those who use the lounge daily are furniture,
   collaborative space, and kitchen.
 
@@ -128,5 +128,4 @@ highest priorities as 100, blank answers were assigned 0.
 ### Data Processing
 
 All analysis and creation of visuals were performed in R. The code for
-the processing, cleaning, and writing of this doc can be found
-[here](https://github.com/JonathanmBarnes/SPHereSurvey2024) on github.
+the processing, cleaning, and writing of this doc can be found in the folder.
