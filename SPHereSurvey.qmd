@@ -3,7 +3,7 @@ title: "SPHere Survey Results"
 subtitle: "Results of the 2024 SPHere survey summarising what students would like to see improved and what should be prioritized"
 author: "Jonathan Barnes, Maya Koffski, Caylin Crawford"
 thanks: "Special thank you to Jenny Porter and CeCe Altenhofen"
-format: gfm
+format: html
 editor: visual
 mainfont: Aptos
 embed-resources: true
